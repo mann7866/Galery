@@ -1,4 +1,4 @@
-a@extends('pages.layouts.app')
+@extends('pages.layouts.app')
 @section('header')
 @include('pages.layouts.header')
 @endsection

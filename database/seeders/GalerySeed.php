@@ -19,7 +19,7 @@ class GalerySeed extends Seeder
                 'user_id' => '1',
                 'id_unik' => '2131233',
                 'name' => 'yayaya',
-                'description' => 'ini adalah foto',
+                'description' => 'ini adalah foto kewfgasdifgsfgsdjfgsdfkgdf  sufsdfuisdd sduofhsdffuisd dsuds igsdgsduisdgfsdiguifgis',
                 'image' => 'images/premium_photo-1668130718429-7abf7b186f2f.jpg',
                 'created_at' => now(),
                 'updated_at' => now(),

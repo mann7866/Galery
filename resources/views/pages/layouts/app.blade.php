@@ -10,12 +10,14 @@
 
     <!-- Font Awesome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
+    @stack('link')
 </head>
 
 <body class="pt-45 bg-white">
 @include('pages.layouts.navbar')
 @yield('content')
+
+@stack('script')
 </body>
 
 </html>
